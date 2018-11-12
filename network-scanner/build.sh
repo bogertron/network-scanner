@@ -1,3 +1,5 @@
+#!/bin/bash
+
 go build
 go install
 sudo chown root ../../../../bin/network-scanner
